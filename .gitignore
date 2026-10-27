@@ -1,0 +1,12 @@
+/.tools/
+/.cache/
+/.scratch/
+/.superpowers/
+/results/
+*.exe
+*.test
+*.out
+*.private.json
+*-private.json
+*-recovered.json
+*.key
